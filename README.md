@@ -3,7 +3,18 @@ Hey hey, what's up folks!<br><br>I'm Arshad, the Algo alchemist with a passion f
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arshad-jamal-6a5132247/) 
+<p align="left">
+  <a href="https://www.linkedin.com/in/arshad-jamal-6a5132247/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/arshadjamal6002" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://arshadjamal.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00b300?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <img src="https://img.shields.io/badge/Discord-hesindtween-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</p>
 
 # 💻 Tech Stack:
 
