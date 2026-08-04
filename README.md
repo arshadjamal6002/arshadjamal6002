@@ -9,14 +9,14 @@ By owning the entire project lifecycle. I don’t just live in Jupyter notebooks
 ### What’s in my toolkit?
 A versatile stack designed for real-world impact.
 
-* **🚀 Languages:** Python, SQL, R (basic)
-* **🧠 ML & DL:** PyTorch, TensorFlow, Scikit-learn, XGBoost, LightGBM, Hugging Face
-* **✨ Generative AI:** Llama-Index, Ollama, Pinecone, Astra DB, ChromaDB, RAG
-* **🤖 Agentic AI:** LangGraph, Autogen, CrewAI, n8n
-* **⚙️ MLOps & Production:** MLflow, Docker, DVC, CI/CD (GitHub Actions), Airflow, Grafana
-* **☁️ Cloud & Infrastructure:** AWS (EC2, S3, Redshift), Linux Environment
-* **🌐 Backend & Data Apps:** FastAPI, Streamlit, Gradio, Flask, Celery
-* **🗄️ Databases:** PostgreSQL, MySQL, Redis
+* **🚀 Languages:** Python, SQL, C++, R (basic)
+* **🧠 ML & DL:** PyTorch, TensorFlow, Scikit-learn, XGBoost, Hugging Face, Sentence Transformers
+* **✨ Generative AI & RAG:** LangChain, LlamaIndex, RAG Pipelines, Prompt Engineering, LLM Fine-tuning, Pinecone, Astra DB, ChromaDB, Ollama
+* **🤖 Agentic AI & Orchestration:** LangGraph, Multi-Agent Systems, Google ADK, A2A Protocol (agent-to-agent communication), n8n, BlandAI
+* **⚙️ MLOps & Production:** MLflow, DVC, Docker, CI/CD (GitHub Actions), Airflow, Dagshub
+* **☁️ Cloud & Infrastructure:** AWS (EC2, S3, Lambda, Bedrock, AgentCore, CloudWatch, ECR, EventBridge), Linux
+* **🌐 Backend & Data Apps:** FastAPI, Celery, Streamlit, Gradio, Flask
+* **🗄️ Databases:** PostgreSQL, MySQL, MongoDB, Redis
 * **📊 Data Visualization & BI:** Matplotlib, Seaborn, Plotly, Power BI, Tableau
 
 ### What's my core philosophy?
