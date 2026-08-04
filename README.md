@@ -1,61 +1,31 @@
-# ⚡ Hi, I'm Arshad Jamal
+# Hi, I'm Arshad Jamal 👋
 
-### *Building End-to-End AI Systems That Work*
+### What I do:
+I build end-to-end AI systems that work. I take complex business needs and translate them into robust, scalable, and production-ready machine learning solutions.
 
-I translate complex business needs into robust, scalable, and production-ready machine learning solutions. 
+### How I do it:
+By owning the entire project lifecycle. I don’t just live in Jupyter notebooks. I manage everything from data pipelines and model development to deployment, monitoring, and automated retraining. It’s about creating systems, not just algorithms.
 
----
+### What’s in my toolkit?
+A versatile stack designed for real-world impact.
 
-## 🎯 What I Do
+* **🚀 Languages:** Python, SQL, R (basic)
+* **🧠 ML & DL:** PyTorch, TensorFlow, Scikit-learn, XGBoost, LightGBM, Hugging Face
+* **✨ Generative AI:** Llama-Index, Ollama, Pinecone, Astra DB, ChromaDB, RAG
+* **🤖 Agentic AI:** LangGraph, Autogen, CrewAI, n8n
+* **⚙️ MLOps & Production:** MLflow, Docker, DVC, CI/CD (GitHub Actions), Airflow, Grafana
+* **☁️ Cloud & Infrastructure:** AWS (EC2, S3, Redshift), Linux Environment
+* **🌐 Backend & Data Apps:** FastAPI, Streamlit, Gradio, Flask, Celery
+* **🗄️ Databases:** PostgreSQL, MySQL, Redis
+* **📊 Data Visualization & BI:** Matplotlib, Seaborn, Plotly, Power BI, Tableau
 
-I don’t just live in Jupyter notebooks. I build **complete AI ecosystems** by owning the entire project lifecycle—from data pipelines and model development to deployment, monitoring, and automated retraining. 
+### What's my core philosophy?
+Production-first. An AI model is just a hypothesis until it's creating measurable value in the wild. I build for impact.
 
-It’s about creating **resilient systems**, not just standalone algorithms.
+### What's next?
+A conversation. I'm actively seeking my next challenge in the AI space and am open to collaboration.
 
----
-
-## 🛠️ Tech Stack & Toolkit
-
-#### 🚀 **Core & Languages**
-`Python` • `SQL` • `R` • `Linux Environment`
-
-#### 🧠 **Machine Learning & Deep Learning**
-`PyTorch` • `TensorFlow` • `Scikit-learn` • `XGBoost` • `LightGBM` • `Hugging Face`
-
-#### ✨ **Generative AI & RAG**
-`LlamaIndex` • `Ollama` • `Pinecone` • `Astra DB` • `ChromaDB` • `RAG Architecture`
-
-#### 🤖 **Agentic AI**
-`LangGraph` • `AutoGen` • `CrewAI` • `n8n`
-
-#### ⚙️ **MLOps & Production**
-`MLflow` • `Docker` • `DVC` • `GitHub Actions (CI/CD)` • `Apache Airflow` • `Grafana`
-
-#### ☁️ **Cloud & Infrastructure**
-`AWS (EC2, S3, Redshift)`
-
-#### 🌐 **Backend & Apps**
-`FastAPI` • `Streamlit` • `Gradio` • `Flask` • `Celery`
-
-#### 🗄️ **Databases**
-`PostgreSQL` • `MySQL` • `Redis`
-
-#### 📊 **Data Visualization & BI**
-`Matplotlib` • `Seaborn` • `Plotly` • `Power BI` • `Tableau`
-
----
-
-## 💡 Core Philosophy
-
-> **Production-first.** An AI model is just a hypothesis until it's creating measurable value in the wild. I build for real-world impact.
-
----
-
-## 📬 Let's Connect
-
-I'm actively seeking my next challenge in the AI space and always open to collaboration. 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshad-jamal-6a5132247/)
+[Let's talk...](https://www.linkedin.com/in/arshad-jamal-6a5132247/)
 
 
 ## 🌐 Socials:
