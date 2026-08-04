@@ -11,8 +11,8 @@ A versatile stack designed for real-world impact.
 
 * **🚀 Languages:** Python, SQL, C++, R (basic)
 * **🧠 ML & DL:** PyTorch, TensorFlow, Scikit-learn, XGBoost, Hugging Face, Sentence Transformers
-* **✨ Generative AI & RAG:** LangChain, LlamaIndex, RAG Pipelines, Prompt Engineering, LLM Fine-tuning, Pinecone, Astra DB, ChromaDB, Ollama
-* **🤖 Agentic AI & Orchestration:** LangGraph, Multi-Agent Systems, Google ADK, A2A Protocol (agent-to-agent communication), n8n, BlandAI
+* **✨ Generative AI & RAG:** LangChain, LlamaIndex, RAG Pipelines, Prompt Engineering, LLM Fine-tuning, Pinecone, Astra DB, ChromaDB
+* **🤖 Agentic AI & Orchestration:** LangGraph, Multi-Agent Systems, Google ADK, A2A Protocol, n8n, BlandAI
 * **⚙️ MLOps & Production:** MLflow, DVC, Docker, CI/CD (GitHub Actions), Airflow, Dagshub
 * **☁️ Cloud & Infrastructure:** AWS (EC2, S3, Lambda, Bedrock, AgentCore, CloudWatch, ECR, EventBridge), Linux
 * **🌐 Backend & Data Apps:** FastAPI, Celery, Streamlit, Gradio, Flask
