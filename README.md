@@ -1,5 +1,61 @@
-# 💫 About Me:
-Hey hey, what's up folks!<br><br>I'm Arshad, the Algo alchemist with a passion for deep learning and a knack for creating intelligent machines that take over the world! Just kidding, I promise they're not that evil (yet).<br><br>Sophomore undergrad ai & ml researcher just for namesake and degree 🎓! let's be real, it's the hands-on coding that gets my heart racing.<br><br>When I'm not busy debugging my code at the unholy hour of 3 AM, you'll catch me chugging down cups of coffee ☕ to keep my neural networks firing or hitting the community basketball court for some hoops action 🏀. Gotta balance those intellectual pursuits with a little physical activity, right?<br><br>My code💻 is always a work in progress, but I'm always eager to learn and collaborate on exciting new projects. So let's join forces and build the smartest, sassiest bots this side of the internet! Oh, and if you're still using Python 2, we might have to have a chat..."<br><br>Oh, did I mention I'm a firm believer in the power of Vim? Its keystrokes flow through my veins, giving me superhuman coding speed (or so I like to think). VS Code may have its fancy extensions, but Vim is where the real magic happens.<br><br>If you're as passionate about machine learning, deep learning, and the limitless possibilities of AI, I invite you to join me on this electrifying journey. Let's connect, collaborate, and create cutting-edge projects that leave the world in awe.🎉<br><br>https://www.linkedin.com/in/arshad-jamal-6a5132247/<br><br>When I'm not immersed in lines of code, you can catch me jamming to some funky beats, sketching futuristic doodles, or engaging in epic debates about the best programming languages (Python, obviously!).<br><br>Oh, and don't let my cool exterior fool you, deep down I'm just a lost puppy trying to find my way in this crazy world of machine learning. But hey, aren't we all?<br><br>In my downtime, you'll find me exploring the outdoors, seeking adventure in the great unknown, or binge-watching sci-fi movies with a bowl of popcorn by my side. Feel free to drop me a message if you're up for an intellectually stimulating conversation or just want to share some laughs.<br><br>Together, let's ride the waves of innovation, defy the limits of what's possible, and build a future where machines and humans coexist in harmony. Buckle up, my friends, because the AI revolution is just getting started!<br><br>Cheers to endless possibilities and the thrill of creating intelligent wonders!
+# ⚡ Hi, I'm Arshad Jamal
+
+### *Building End-to-End AI Systems That Work*
+
+I translate complex business needs into robust, scalable, and production-ready machine learning solutions. 
+
+---
+
+## 🎯 What I Do
+
+I don’t just live in Jupyter notebooks. I build **complete AI ecosystems** by owning the entire project lifecycle—from data pipelines and model development to deployment, monitoring, and automated retraining. 
+
+It’s about creating **resilient systems**, not just standalone algorithms.
+
+---
+
+## 🛠️ Tech Stack & Toolkit
+
+#### 🚀 **Core & Languages**
+`Python` • `SQL` • `R` • `Linux Environment`
+
+#### 🧠 **Machine Learning & Deep Learning**
+`PyTorch` • `TensorFlow` • `Scikit-learn` • `XGBoost` • `LightGBM` • `Hugging Face`
+
+#### ✨ **Generative AI & RAG**
+`LlamaIndex` • `Ollama` • `Pinecone` • `Astra DB` • `ChromaDB` • `RAG Architecture`
+
+#### 🤖 **Agentic AI**
+`LangGraph` • `AutoGen` • `CrewAI` • `n8n`
+
+#### ⚙️ **MLOps & Production**
+`MLflow` • `Docker` • `DVC` • `GitHub Actions (CI/CD)` • `Apache Airflow` • `Grafana`
+
+#### ☁️ **Cloud & Infrastructure**
+`AWS (EC2, S3, Redshift)`
+
+#### 🌐 **Backend & Apps**
+`FastAPI` • `Streamlit` • `Gradio` • `Flask` • `Celery`
+
+#### 🗄️ **Databases**
+`PostgreSQL` • `MySQL` • `Redis`
+
+#### 📊 **Data Visualization & BI**
+`Matplotlib` • `Seaborn` • `Plotly` • `Power BI` • `Tableau`
+
+---
+
+## 💡 Core Philosophy
+
+> **Production-first.** An AI model is just a hypothesis until it's creating measurable value in the wild. I build for real-world impact.
+
+---
+
+## 📬 Let's Connect
+
+I'm actively seeking my next challenge in the AI space and always open to collaboration. 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshad-jamal-6a5132247/)
 
 
 ## 🌐 Socials:
